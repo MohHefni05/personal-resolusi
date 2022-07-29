@@ -1,1 +1,6 @@
 kedepannya bisa megetahui semua seluk beluk back end
+sperti:
+laravel
+ci
+tilwind
+bootstrap
