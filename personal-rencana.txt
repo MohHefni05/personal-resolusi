@@ -3,4 +3,4 @@ sperti:
 laravel
 ci
 tilwind
-bootstrap
+ruby on rails
