@@ -1,6 +1,7 @@
-kedepannya bisa megetahui semua seluk beluk back end
+kedepannya bisa megetahui semua seluk beluk back end dan front end
 sperti:
 laravel
 ci
 tilwind
 bootstrap
+node js
