@@ -4,3 +4,4 @@ laravel
 ci
 tilwind
 bootstrap
+node js
