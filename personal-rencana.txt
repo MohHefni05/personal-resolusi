@@ -3,5 +3,6 @@ sperti:
 laravel
 ci
 tilwind
+ruby on rails
 bootstrap
 node js
